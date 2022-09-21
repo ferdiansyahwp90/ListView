@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan3_mobile/list.dart';
 import 'componen/category.dart';
 
 void main() {
